@@ -1,0 +1,2 @@
+# Termux
+Only ome
